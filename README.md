@@ -1,4 +1,4 @@
-![Image Description](img/Pulse_step.png)
+![Image Description](src/img/Pulse_step.png)
 
 # Interactive Website with Forms, Slider, and More
 
